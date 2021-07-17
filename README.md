@@ -36,6 +36,7 @@ https://youtu.be/v3DKuHMq2tE
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![JestJS](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 - ⚙️ &nbsp;
