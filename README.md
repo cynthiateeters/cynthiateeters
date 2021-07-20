@@ -26,6 +26,7 @@ https://youtu.be/v3DKuHMq2tE
 - 🗺️ I absolutely love to explore new technologies
 - 📷 I am a photographer who practices both digital and alternative photo techniques
 - ✍️ And I'm a dabbler in graphic design and typography
+- - 📫 How to reach me: cynthia.teeters@raritanval.edu
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
