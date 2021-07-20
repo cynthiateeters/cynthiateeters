@@ -18,7 +18,7 @@ https://youtu.be/v3DKuHMq2tE
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 -->
 
-<h2>I'm Professor Cynthia Teeters.</h2>
+<h2>I'm Cynthia Teeters.</h2>
 
 <h3> 👩‍💻&nbsp;Here's A Little Bit About Me </h3>
 
