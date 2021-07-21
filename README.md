@@ -23,7 +23,7 @@ https://youtu.be/v3DKuHMq2tE
 <h3> 👩‍💻&nbsp;Here's A Little Bit About Me </h3>
 
 - 🎓 Adjunct Assistant Professor - Raritan Valley Community College (she/her)
-- 👩‍🏫 I teach web development
+- 👩‍🏫 I teach web development and JavaScript
 - 🗺️ I absolutely love to explore new technologies
 - 📷 I am a photographer who practices both digital and alternative photo techniques
 - ✍️ And I'm a dabbler in graphic design and typography
