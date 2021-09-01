@@ -28,6 +28,7 @@ https://youtu.be/v3DKuHMq2tE
 - 📷 I am a photographer who practices both digital and alternative photo techniques
 - ✍️ And I'm a dabbler in graphic design and typography
 - 📫 How to reach me: cynthia.teeters@raritanval.edu
+- 🦊 Currently I am a mentor with [Front-End Foxes School - For women, by women](https://www.vuevixens.org/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
