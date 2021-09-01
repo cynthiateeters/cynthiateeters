@@ -26,7 +26,7 @@ https://youtu.be/v3DKuHMq2tE
 - 👩‍🏫 I teach web development and JavaScript
 - 🗺️ I absolutely love to explore new technologies
 - 📷 I am a photographer who practices both digital and alternative photo techniques
-- ✍️ And I'm a dabbler in graphic design and typography
+- ✍️ And I'm a dabbler in graphic design and typography (how cool is that?)
 - 📫 How to reach me: cynthia.teeters@raritanval.edu
 - 🦊 Currently I am a mentor with [Front-End Foxes School - For women, by women](https://www.vuevixens.org/)
 
