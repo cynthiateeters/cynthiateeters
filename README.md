@@ -1,6 +1,7 @@
-### Hi there 🤓👋
+![cynthiateeters](https://user-images.githubusercontent.com/13385801/133829323-889cbcf2-d4a7-4cbe-b179-2b3386a98816.png)
 
-[""](https://res.cloudinary.com/cynthia-teeters/image/upload/v1631899003/2021%20Fall/gh-image-01.svg)
+# Hi there 🤓👋
+
 
 <!--
 **cynthiateeters/cynthiateeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
