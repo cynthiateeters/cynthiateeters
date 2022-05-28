@@ -34,10 +34,11 @@ https://youtu.be/v3DKuHMq2tE
 - 🦊 I am a mentor with [Front-End Foxes School - For women, by women](https://www.vuevixens.org/)
 - 🎴 I am a contributor to the [NovelRT Open Source Project](https://github.com/novelrt/)
 
-<!-- <h3>Certifications</h3>
+<h3>Certifications</h3>
 
 ![Raritan Valley Community College - RVCC Online Teaching Certification - 2022-03-18](https://user-images.githubusercontent.com/13385801/159055902-187da6cc-8457-4381-ba0a-e826ab5c0376.png)
- -->
+
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
