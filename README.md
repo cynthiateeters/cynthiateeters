@@ -43,7 +43,7 @@ https://youtu.be/v3DKuHMq2tE
 
 <!-- 
 
-![Raritan Valley Community College - RVCC Online Teaching Certification - 2022-03-18](https://user-images.githubusercontent.com/13385801/159055902-187da6cc-8457-4381-ba0a-e826ab5c0376.png)
+[![Raritan Valley Community College - RVCC Online Teaching Certification - 2022-03-18](https://user-images.githubusercontent.com/13385801/159055902-187da6cc-8457-4381-ba0a-e826ab5c0376.png)](https://game.fonts.adobe.com/)
 
 -->
  
