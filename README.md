@@ -37,6 +37,7 @@ https://youtu.be/v3DKuHMq2tE
 
 <h3>Certifications</h3>
 
+I played [Discover your typographic superpower](https://game.fonts.adobe.com/) and learned my superpower is
 
 ![friendly-superpower-xs](https://user-images.githubusercontent.com/13385801/177379962-abfe29e3-a107-49ff-85cf-d3721d68972d.png)
 
