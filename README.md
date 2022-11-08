@@ -36,7 +36,7 @@ https://youtu.be/v3DKuHMq2tE
 
 
 
-<h3>Follow Me on Front-end.social</h3>
+<h3>Follow Me on @Cynthiateeters@front-end.social</h3>
 
 <a rel="me" href="https://front-end.social/@Cynthiateeters">Mastodon</a>
 
