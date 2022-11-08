@@ -35,6 +35,11 @@ https://youtu.be/v3DKuHMq2tE
 - 🎴 I am a contributor to the [NovelRT Open Source Project](https://github.com/novelrt/)
 
 
+
+<h3>Follow Me on Front-end.social</h3>
+
+<a href="https://front-end.social/@cynthiateeters" rel="me" >
+
 <h3>Certifications</h3>
 
 I played [Discover your typographic superpower](https://game.fonts.adobe.com/) and learned my superpower is
