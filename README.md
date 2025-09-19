@@ -36,11 +36,9 @@ https://youtu.be/v3DKuHMq2tE
 
 
 
-<h3>Follow Me on @Cynthiateeters@front-end.social</h3>
-
-<a rel="me" href="https://front-end.social/@Cynthiateeters">Mastodon</a>
-
 <h3>Certifications</h3>
+
+[![An image of @cynthiateeters's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cynthiateeters)](https://holopin.io/@cynthiateeters)
 
 I played [Discover your typographic superpower](https://game.fonts.adobe.com/) and learned my superpower is
 
